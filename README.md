@@ -4,7 +4,7 @@ Our project, "SkySpy - Taking your Aviation Enthusiasm to new heights," focuses 
 
 ## Guidelines for the Contributors
 
-After deciding your uses-case, create a new branch, keep the naming style of the branch consistent like: "Feature-YourName". Also, make sure to follow the best practices for developing micro-services. 
+After deciding your uses-case, create a new branch, keep the naming style of the branch consistent like: "Feature-1/YourName". Also, make sure to follow the best practices for developing micro-services. 
 
 ## Installation
 
